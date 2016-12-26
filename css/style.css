@@ -32,7 +32,7 @@ body {
   font-family: "Opensans-Regular", Arial, Helvetica, sans-serif; }
 
 .content {
-  max-width: 890px;
+  width: 890px;
   margin: auto; }
 
 .header {
